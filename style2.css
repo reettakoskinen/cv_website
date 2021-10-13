@@ -1,0 +1,100 @@
+
+h2 { text-transform: uppercase;
+     text-align: center;}
+h3 { text-transform: uppercase;
+     text-align: center;}
+
+
+
+.otsikko {
+  position: absolute;
+  width: 100%;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 50px;
+  color: black;
+  /*color: #D19C97;*/
+
+}
+
+
+
+.kuva {
+  width: 53,5px;
+  height: 180px;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 43%;
+  margin-top: 180px;
+
+}
+
+
+.profiili {
+  width: 100%;
+  font-family: 'Comfortaa', cursive;
+  font-weight:normal;
+  text-align: center;
+  margin-top: 280px;
+  padding-bottom: 50px;
+  padding-top: 100px;
+  float:left;
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
+.main {
+  width: 678px;
+  height: 350px;
+  font-family: 'Comfortaa', cursive;
+  font-weight:normal;
+  position: absolute;
+  margin-top: 630px;
+  padding: 35px;
+  color: black;
+  background-color: #e6ffff;
+  font-size: 15px;
+  margin-bottom: 100px;
+
+}
+
+.koulutus {
+  width: 678px;
+  height: 350px;
+  margin-top: 630px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: 'Comfortaa', cursive;
+  margin-left: 758px;
+  float: left;
+  padding: 35px;
+  background-color: #e6ffff;
+  margin-bottom: 100px;
+
+}
+
+
+
+.osoite {
+  font-family: 'Comfortaa', cursive;
+  color: #black;
+  font-weight: bold;
+}
+
+
+.puhelin {
+  font-family: 'Comfortaa', cursive;
+  color: #black;
+  font-weight: bold;
+}
+
+.sähköposti {
+  font-family: 'Comfortaa', cursive;
+  color: #black;
+  font-weight: bold;
+}
